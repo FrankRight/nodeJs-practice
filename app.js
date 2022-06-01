@@ -1,11 +1,12 @@
-// Modules
-const name1 = "John";
-const name2 = "Peter";
+// Built in modules in node include
 
-const sayHi = (name) => {
-  console.log(`Hello there, ${name}`);
-};
+/**
+ * OS
+ * PATH
+ * FS
+ * HTTP
+ */
 
-sayHi("Susan");
-sayHi(name1);
-sayHi(name2);
+/* This is just a part of it. There are more modules than this
+ but this is just the major ones
+*/
