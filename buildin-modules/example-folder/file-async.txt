@@ -1,0 +1,2 @@
+concatinated the text Hello this is the first file
+add content and Hello this is the second file.!
