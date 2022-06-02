@@ -1,0 +1,14 @@
+{
+  "name": "roux-academy",
+  "version": "1.0.0",
+  "description": "Exercise files for my tutorial in Building a Website with Node.js and Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Frankline Bosire",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
